@@ -1,12 +1,60 @@
-# React + Vite
+# 📖✨ Book Review System Frontend ✨📖
+🚀 A dynamic and modern frontend for the **Book Review System**, built with **React (Vite)** and **Tailwind CSS**.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🎨 Features  
+✅ **Book Catalog** – Browse, search, and filter books  
+✅ **Review System** – Users can leave ratings & comments  
+✅ **Responsive UI** – Tailwind CSS for a sleek design  
+✅ **API Integration** – Connects to the backend seamlessly  
+✅ **State Management** – React Hooks & Context API  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack  
+🔹 **Frontend**: React (Vite)  
+🔹 **Styling**: Tailwind CSS  
+🔹 **State Management**: Context API / Redux (if needed)  
+🔹 **Routing**: React Router  
+🔹 **API Handling**: Axios  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Installation & Setup  
+```bash
+# Clone the repository
+git clone https://github.com/itz-Hiru/Book-Review-System-Frontend.git
+
+# Navigate to project folder
+cd Book-Review-System-Frontend
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+The frontend will be running on **http://localhost:5173**.
+
+---
+
+## 🌐 Pages & Routes  
+📌 **Home Page** – Display latest & top-rated books  
+📌 **Book Details** – Individual book details & reviews  
+📌 **Add a Book** – (For admins) Add new books to catalog  
+
+---
+
+## 🛡 Security & Best Practices  
+🔹 **Input Validation** – Prevent invalid data submission  
+🔹 **Protected Routes** – Restrict access to authenticated users  
+🔹 **Error Handling** – Display friendly error messages  
+🔹 **Optimized Performance** – Lazy loading & caching  
+
+---
+
+## 📜 License  
+📖 MIT License – Free to use and modify  
+
+🚀 **Contribute & Star ⭐ this project!**  
