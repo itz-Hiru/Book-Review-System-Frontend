@@ -42,7 +42,7 @@ The frontend will be running on **http://localhost:5173**.
 ## 🌐 Pages & Routes  
 📌 **Home Page** – Display latest & top-rated books  
 📌 **Book Details** – Individual book details & reviews  
-📌 **Add a Book** – (For admins) Add new books to catalog  
+📌 **Add a Book** – Add new books to catalog  
 
 ---
 
